@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "moment": "^2.24.0"
   },
   "devDependencies": {},
